@@ -7,3 +7,4 @@ image[40:60, 40:60] = 255  # White square
 plt.imshow(image, cmap='gray')
 plt.savefig('day1_output.png')
 plt.show()
+print("testing nitin_test branch")
